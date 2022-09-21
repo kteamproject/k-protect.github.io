@@ -1,0 +1,12 @@
+section.features .feature-item i {
+  font-size: 80px;
+  display: block;
+  margin-bottom: 15px;
+  background: linear-gradient(to right, #3cc619, #dea71a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#mainNav.navbar-shrink img {
+    -webkit-filter: invert(100%) !important;
+}
